@@ -1,0 +1,8 @@
+keyboard
+opencv-python
+numpy==2.4.2
+mss
+pyautogui
+pywin32
+pygetwindow
+ultralytics

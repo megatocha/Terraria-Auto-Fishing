@@ -1,5 +1,5 @@
-train: C:\Users\galag\PycharmProjects\TerrariaRibalka\DataSet\train\images
-val: C:\Users\galag\PycharmProjects\TerrariaRibalka\DataSet\train\images
+train: DataSet/train/images
+val: DataSet/train/images
 
 nc: 2
-names: ['bobber', 'bobberHead']
+names: ["bobber", "bobberHead"]
